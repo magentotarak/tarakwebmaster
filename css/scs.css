@@ -2769,3 +2769,18 @@ opc-block-shipping-information .ship-to {
     }
 }
 .mycss{ display:none;}
+
+
+textarea {
+    min-height: 100px;
+}
+
+select {
+    background-color: #fff;
+    border-color: #d2d2d2;
+    padding-left: 12px;
+    padding-right: 20px;
+    line-height: 40px;
+    height: 48px;
+    color: #495057;
+}
